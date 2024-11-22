@@ -2,5 +2,6 @@
 
 #  Simple-Isometric-Game-Engine
  
-разрабатывался для проекта Любимая Семья(аналог Social Sims).
+разрабатывался для проекта Любимая Семья(аналог Social Sims).  
 
+![1](https://github.com/s2023alek/BusinessFamily/blob/0e171eb1c8ebaed91a19645cacd91326278d9a44/README/bf111111111111.JPG)
